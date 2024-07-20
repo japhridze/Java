@@ -1,0 +1,15 @@
+Employee,One,1000,
+Employee,Two,1200,
+Employee,Three,1400,
+SalesPerson,SalesOne,1600,99
+SalesPerson,SalesTwo,1800,100
+SalesPerson,SalesThree,2000,101
+SalesPerson,SalesFour,2200,199
+SalesPerson,SalesFive,2400,200
+SalesPerson,SalesSix,2600,201
+Manager,ManagerOne,3600,99
+Manager,ManagerTwo,3800,100
+Manager,ManagerThree,3000,101
+Manager,ManagerFour,4200,149
+Manager,ManagerFive,4400,150
+Manager,ManagerSix,4600,151

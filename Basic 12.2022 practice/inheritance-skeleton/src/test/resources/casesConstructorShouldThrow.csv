@@ -1,0 +1,12 @@
+Employee,Employee,,
+Employee,,0,
+Employee,"",0,
+Employee,"        ",1,
+Employee,Employee,-0.1,
+Employee,Employee,-100,
+SalesPerson,,0.1,1
+SalesPerson,SalesPerson,-0.1,99
+SalesPerson,SalesPerson,0.1,-1
+Manager,,1,1
+Manager,Manager,-0.1,0
+Manager,Manager,0.1,-1
